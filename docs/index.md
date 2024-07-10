@@ -1,0 +1,1 @@
+[miniLibX日本語版説明](./explain_ja.md)
